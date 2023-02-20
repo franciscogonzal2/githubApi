@@ -1,0 +1,16 @@
+.backGround{
+background: url(./bgimg.jpg);
+width: 100vw;
+height: 100vh;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin-top: -70 px;
+}
+.formData{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    width: 20%;
+}
